@@ -1,0 +1,1 @@
+Microsoft Graph provides a unified programmability model that you can use to build apps for organizations and consumers that interact with the data of millions of users. The Microsoft Graph REST APIs implements many of the OData protocol’s query parameters. In this module, you will learn how to manipulate queries using query parameters.
